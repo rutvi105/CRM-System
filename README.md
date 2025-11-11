@@ -290,8 +290,7 @@ After running seeders, use these credentials:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6035f29d-34cd-447c-b82d-e3bb59d00a9a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2508f856-8b71-40bf-957b-ccfccb2c163e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d4625f1-e417-40de-a5e1-1701349f13ce" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce103c37-aef1-480f-a727-1817e42339c2" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3276f56e-2b76-4bdb-b97e-919ee6945225" />
 ---
 
 ## 🗄️ Database Schema

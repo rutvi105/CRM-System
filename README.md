@@ -264,13 +264,30 @@ After running seeders, use these credentials:
 - Admin Dashboard: System-wide overview with statistics
 
 ### Ticket Management
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85b78cf0-4797-441d-b216-1de8006d8ca6" />
+
 - Create Ticket Form: Simple and intuitive
+
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf7b272b-5fc8-41e6-b742-de160a267580" />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c34cb72c-4b4f-480d-90f4-3b339ac27f62" />
+
 - Ticket Details: Complete information with history
 - Status Updates: Real-time tracking
 
 ### Reports
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d2191ef-46d1-4cde-89b7-4c4096178922" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85aa8438-e52b-485b-99c5-9d170afb80ba" />
+
 - SLA Compliance Report: Track on-time resolutions
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0313425-60b8-4296-b06f-41221ea1972d" />
+
 - Agent Performance Report: Evaluate team efficiency
+
+---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6035f29d-34cd-447c-b82d-e3bb59d00a9a" />
 
 ---
 

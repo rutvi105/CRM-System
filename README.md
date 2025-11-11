@@ -4,26 +4,6 @@ A comprehensive Customer Relationship Management (CRM) system built with Laravel
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [User Roles](#user-roles)
-- [Screenshots](#screenshots)
-- [Database Schema](#database-schema)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## ✨ Features
 
 ### Core Functionality
@@ -208,7 +188,7 @@ After running seeders, use these credentials:
 - Password: `password`
 
 **Agent Account:**
-- Email: `agent@crm.com`
+- Email: `agent2@crm.com`
 - Password: `password`
 
 **Customer Account:**
@@ -270,6 +250,9 @@ After running seeders, use these credentials:
 ## 📸 Screenshots
 
 ### Dashboard Views
+
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/58f6350d-8e2b-4b56-b650-506a75ef22ee" />
+
 - Customer Dashboard: View all personal tickets
 - Agent Dashboard: Manage assigned tickets with SLA tracking
 - Admin Dashboard: System-wide overview with statistics

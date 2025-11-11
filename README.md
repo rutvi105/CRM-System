@@ -288,7 +288,8 @@ After running seeders, use these credentials:
 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6035f29d-34cd-447c-b82d-e3bb59d00a9a" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2508f856-8b71-40bf-957b-ccfccb2c163e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0d4625f1-e417-40de-a5e1-1701349f13ce" />
 ---
 
 ## 🗄️ Database Schema
@@ -378,73 +379,7 @@ ngrok http 8000
 # Update .env
 APP_URL=https://your-ngrok-url.ngrok-free.app
 ```
-
-### Production Deployment
-
-**Recommended Hosting:**
-- DigitalOcean
-- AWS
-- Heroku
-- Railway.app
-
-**Deployment Steps:**
-1. Upload files to server
-2. Configure `.env` with production settings
-3. Run migrations: `php artisan migrate --force`
-4. Set permissions: `chmod -R 755 storage bootstrap/cache`
-5. Configure web server (Apache/Nginx)
-
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📞 Contact
-
-**Developer:** Rutvi K. Khatariya  
-**Email:** your-email@example.com  
-**College:** College of Agricultural Information Technology, Anand Agricultural University  
-**Project Guide:** Dr. X.U. Shukla
-
-**Project Link:** [https://github.com/yourusername/crm-system](https://github.com/yourusername/crm-system)
-
----
-
-## 🙏 Acknowledgments
-
-- Laravel Documentation
-- Bootstrap Documentation
-- Stack Overflow Community
-- Dr. X.U. Shukla (Project Guide)
-- College of Agricultural Information Technology
-
----
-
-## 📝 Project Information
-
-**Course:** PRJT 411  
-**Semester:** 7th  
-**Enrollment No:** 3060822014  
-**Submission Date:** November 14, 2025  
-**Institution:** Anand Agricultural University, Anand
-
----
-
 **⭐ If you find this project helpful, please give it a star!**
 
 Made with ❤️ by Rutvi K. Khatariya

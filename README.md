@@ -251,10 +251,16 @@ After running seeders, use these credentials:
 
 ### Dashboard Views
 
-<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/58f6350d-8e2b-4b56-b650-506a75ef22ee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58e4e8f1-ea98-4daf-a6df-b0f1a1b16a3d" />
 
 - Customer Dashboard: View all personal tickets
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b5bb24c-9f4d-4cae-ad4b-0c7d77287b95" />
+
 - Agent Dashboard: Manage assigned tickets with SLA tracking
+
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/58f6350d-8e2b-4b56-b650-506a75ef22ee" />
+
 - Admin Dashboard: System-wide overview with statistics
 
 ### Ticket Management

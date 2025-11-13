@@ -267,12 +267,12 @@ After running seeders, use these credentials:
 
 ### Ticket Management
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/85b78cf0-4797-441d-b216-1de8006d8ca6" />
+<img width="1920" height="1027" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/69e06a1d-8eee-41ff-bb8e-cb29ea2b7a26" />
 
 - Create Ticket Form: Simple and intuitive
 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf7b272b-5fc8-41e6-b742-de160a267580" />
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c34cb72c-4b4f-480d-90f4-3b339ac27f62" />
+  <img width="1920" height="1030" alt="Screenshot (230)" src="https://github.com/user-attachments/assets/2c1c6150-130b-473a-88b1-c24b7f258fe0" />
+  <img width="1920" height="1022" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/0ce9b055-7d4f-417a-af8d-f076ff50c1d6" />
 
 - Ticket Details: Complete information with history
 - Status Updates: Real-time tracking

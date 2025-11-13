@@ -20,12 +20,14 @@ A comprehensive Customer Relationship Management (CRM) system built with Laravel
 ### Advanced Features
 - 📧 **Email Notifications** - Automated emails for status updates and assignments
 - 📊 **Reports & Analytics** - SLA compliance and agent performance reports
+- 📎 **File Attachments** - Upload and download multiple files (images, PDFs, documents, up to 10MB each)
+- 💬 **Comments System** - Real-time conversation thread within tickets with internal notes for agents
+- 📈 **Interactive Charts** - Beautiful data visualizations using Chart.js (pie, bar, doughnut charts)
 - 🌍 **Multi-Device Support** - Works across all devices and networks (via ngrok)
 - 🕐 **Indian Standard Time (IST)** - All timestamps in Asia/Kolkata timezone
-- 👤 **Enhanced Profile Management** - User profile editing with statistics
+- 👤 **Enhanced Profile Management** - User profile editing with statistics and password change
 - 📱 **Responsive Design** - Mobile-friendly Bootstrap 5 interface
 - 🔍 **Advanced Search & Filters** - Search tickets by status, priority, keywords
-- 📈 **Dashboard Analytics** - Role-specific dashboards with key metrics
 - 💾 **CSV Export** - Export reports for external analysis
 
 ---
@@ -251,7 +253,7 @@ After running seeders, use these credentials:
 
 ### Dashboard Views
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/58e4e8f1-ea98-4daf-a6df-b0f1a1b16a3d" />
+<img width="1920" height="1022" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/e9234d46-d111-40b8-9a57-6771e5055280" />
 
 - Customer Dashboard: View all personal tickets
 
@@ -259,7 +261,7 @@ After running seeders, use these credentials:
 
 - Agent Dashboard: Manage assigned tickets with SLA tracking
 
-<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/58f6350d-8e2b-4b56-b650-506a75ef22ee" />
+<img width="1920" height="1024" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/c3cf5286-62d2-426f-b0d6-e4da4e350294" />
 
 - Admin Dashboard: System-wide overview with statistics
 
